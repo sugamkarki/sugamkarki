@@ -10,7 +10,7 @@ Hello there! 👋 ~~Kenobiiiii~~ I'm [Sugam Karki], a coder by day, a dreamer by
 
 ### Who Am I?
 
-- **Full-time developer**: I break things until they work.
+- **Full-time developer**: Sorta
 - **Part-time magician**: I turn coffee into despair.
 - **Aspiring astronomer**: Because why not?
 
