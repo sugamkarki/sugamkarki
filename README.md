@@ -6,12 +6,11 @@
 
 ## About Me
 
-Hello there! 👋 ~~Kenobiiiii~~ I'm [Sugam Karki], a coder by day, a dreamer by night, and a procrastinator 24/7. Welcome to the circus that is my GitHub profile. Please keep your hands and feet inside the ride at all times.
+Hello there! 👋 ~~Kenobiiiii~~ I'm [Sugam Karki]. Welcome to the circus that is my GitHub profile. Please keep your hands and feet inside the ride at all times.
 
 ### Who Am I?
 
 - **Full-time developer**: Sorta
-- **Part-time magician**: I turn coffee into despair.
 - **Aspiring astronomer**: Because why not?
 
 ## My Skills
@@ -32,29 +31,16 @@ Hello there! 👋 ~~Kenobiiiii~~ I'm [Sugam Karki], a coder by day, a dreamer by
 
 ## Current Projects
 
-### Project 1: **"To-Do List"**
-A revolutionary app to help you ignore your tasks in a more organized way.
 
-### Project 2: **"Weather App"**
-Check the weather without ever having to leave your bed or look out the window.
-
-### Project 3: **"Hello World"**
+### Project 1: **"Hello World"**
 Yes, I'm still working on perfecting this one. Progress is progress!
 
 ## Fun Facts
 
-- I have more “Hello World” programs than actual working projects.
-- My GitHub history looks like a game of Tetris (a very bad tetris).
+- There is nothing fun about this
 
 ## Contact Me
 
 - **Email**: [sugamkarki7058@gmail.com](mailto:sugamkarki7058@gmail.com)
 - **LinkedIn**: [in/sugam-karki/](https://linkedin.com/in/sugam-karki/)
 
-## Support Me
-
-If you like what you see (or feel sorry for me), consider buying me a coffee. It powers my code and my soul.
-
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/sugamkarki)
-
-<sub><sub><sup>And yes, I did copy these from ChatGPT</sup></sup></sub>
